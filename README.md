@@ -1,5 +1,5 @@
 # Everyday-Study-Note
-<h1>Responsive Web Template</h1>
+Responsive Web Template
 Source Code: demo
 Web View: demo
 Reference: demo
